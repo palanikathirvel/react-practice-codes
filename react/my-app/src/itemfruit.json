@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "name": "mango",
+        "amt": "20",
+        "type": "fruits",
+        "shop": "farmer1",
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD6J2Zg-V4_bwaDQ3VcI4hvv404hOdfVdT88k_8GbkMbQB5LipN7kcuHV-Rp4G65NcySs&usqp=CAU"
+    },
+    {
+        "id": "2",
+        "name": "pommegranite",
+        "amt": "20",
+        "type": "fruits",
+        "shop": "farmer1",
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIPF9N2qPTKU2yxOgYe8elHgPGtQX-LsixBRCm9-HJlTDMzPURPq0m4un0H1FKKoLQsNw&usqp=CAU"
+    },
+    {
+        "id": "3",
+        "name": "strawberry",
+        "amt": "20",
+        "type": "fruits",
+        "shop": "farmer1",
+        "src": "https://images.everydayhealth.com/images/diet-nutrition/ordinary-fruits-with-amazing-health-benefits-05-1440x810.jpg"
+    },
+    {
+        "id": "4",
+        "name": "dragon fruit",
+        "amt": "20",
+        "type": "fruits",
+        "shop": "farmer1",
+        "src": "https://cdnimg.webstaurantstore.com/uploads/blog/2021/5/fresh-dragon-fruit-sliced-in-half-on-wooden-board-min.jpg"
+    },
+    {
+        "id": "5",
+        "name": "green apple",
+        "amt": "20",
+        "type": "fruits",
+        "shop": "farmer1",
+        "src": "https://www.starhealth.in/blog/wp-content/uploads/2023/06/slide-01-6.jpg"
+    },
+    {
+        "id": "6",
+        "name": "orange",
+        "amt": "20",
+        "type": "fruits",
+        "shop": "farmer1",
+        "src": "https://hips.hearstapps.com/hmg-prod/images/orange-1558624428.jpg"
+    },
+    {
+        "id": "7",
+        "name": "carrot",
+        "amt": "20",
+        "type": "fruits",
+        "shop": "farmer1",
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTayfBz3pGVrEIUbw5ceXlBLDj9yu1w9KjER3hMQ94a5rdUnOWpTH-gPlry6xZwf6SQNfk&usqp=CAU"
+    }
+]

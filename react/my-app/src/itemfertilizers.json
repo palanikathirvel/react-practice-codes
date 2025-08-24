@@ -1,0 +1,91 @@
+[
+    {
+        "id": "1",
+        "name": "fertilizer 33",
+        "amt": "20",
+        "type": "fertilizers",
+        "shop": "farmer1",
+        "src": "https://m.media-amazon.com/images/I/41lsn0dDBaL._SY445_SX342_QL70_FMwebp_.jpg"
+    },
+    {
+        "id": "2",
+        "name": "fertilizers 44",
+        "amt": "20",
+        "type": "fertilizers",
+        "shop": "farmer1",
+        "src": "https://www.karpagavinayagar.in/assets/images/am1.jpg"
+    },
+    {
+        "id": "3",
+        "name": "fertilizers 55",
+        "amt": "20",
+        "type": "fertilizers",
+        "shop": "farmer1",
+        "src": "https://images.meesho.com/images/products/413586481/fgmwu_512.webp"
+    },
+    {
+        "id": "4",
+        "name": "fertilizers 66",
+        "amt": "20",
+        "type": "fertilizers",
+        "shop": "farmer1",
+        "src": "https://www.karpagavinayagar.in/assets/images/am1.jpg"
+    },
+    {
+        "id": "5",
+        "name": "fertilizers 77",
+        "amt": "20",
+        "type": "fertilizers",
+        "shop": "farmer1",
+        "src": "https://www.karpagavinayagar.in/assets/images/am1.jpg"
+    },
+    {
+        "id": "6",
+        "name": "fertilizers 99",
+        "amt": "20",
+        "type": "fertilizers",
+        "shop": "farmer1",
+        "src": "https://www.karpagavinayagar.in/assets/images/am1.jpg"
+    },
+    {
+        "id": "7",
+        "name": "fertilizers 00",
+        "amt": "20",
+        "type": "fertilizers",
+        "shop": "farmer1",
+        "src": "https://m.media-amazon.com/images/I/41lsn0dDBaL._SY445_SX342_QL70_FMwebp_.jpg"
+    },
+    {
+        "id": "8",
+        "name": "fertilizers 777",
+        "amt": "20",
+        "type": "fertilizers",
+        "shop": "farmer1",
+        "src": "https://images.meesho.com/images/products/413586481/fgmwu_512.webp"
+    },
+    {
+        "id": "9",
+        "name": "fertilizers 333",
+        "amt": "20",
+        "type": "fertilizers",
+        "shop": "farmer1",
+        "src": "https://www.karpagavinayagar.in/assets/images/am1.jpg"
+    },
+    {
+        "id": "10",
+        "name": "fertilizers 444",
+        "amt": "20",
+        "type": "fertilizers",
+        "shop": "farmer1",
+        "src": "https://images.meesho.com/images/products/413586481/fgmwu_512.webp"
+    },
+    {
+        "id": "11",
+        "name": "fertilizers 999",
+        "amt": "20",
+        "type": "fertilizers",
+        "shop": "farmer1",
+        "src": "https://m.media-amazon.com/images/I/41lsn0dDBaL._SY445_SX342_QL70_FMwebp_.jpg"
+    }
+
+]
